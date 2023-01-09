@@ -3,4 +3,3 @@
 ![](https://komarev.com/ghpvc/?username=APStone)
 ![](https://img.shields.io/github/followers/:APStone?label=Follow)
 ___
-## **I am a novice Software Engineer!**
